@@ -1,0 +1,41 @@
+﻿
+.body{
+    background-image:linear-gradient(rgba(0,0,0,0.15),rgba(0, 0, 0, 0.11));
+   
+    background-size: cover;
+    background-position: center;     
+}
+
+}
+ul{
+    float: right;
+    list-style-type: none;
+    margin-top: 20px;
+}
+ul li{
+    display: inline-block;
+}
+
+ul li a{
+    text-decoration: none;
+    color: aqua;
+    padding: 5px 20px;
+    border: 1px solid transparent; 
+    transition: 0.4s ease;
+}
+
+ul li a:hover{
+    background-color: #fff;
+    color: #000;
+}
+
+
+.title h1{
+    color: mediumaquamarine;
+    font-size: 40px;
+}
+
+p{
+    color: white;
+    
+}
